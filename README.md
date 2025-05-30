@@ -1,7 +1,7 @@
 # Purpose
 
-Prints the structure of a JSON object.
-For list items in the structure, it evaluates only the first item in the list.
+Prints the structure of a JSON object. \
+For list items in the structure, it evaluates only the first item in the list. \
 It will evaluate strings to see if they are actually JSON or XML and will print the
 embedded structure of those as well.
 
